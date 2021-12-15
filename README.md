@@ -10,4 +10,7 @@ A web application designed using tkinter to support library transactions and the
 4. Run the project
 
 ## Images 
-<img align="left" src="https://github.com/yx0555/Integrated-Library-System/blob/master/Pictures/HomePage.PNG" width="200">
+<img align="left" src="https://github.com/yx0555/Integrated-Library-System/blob/master/Pictures/HomePage.PNG">
+<img align="left" src="https://github.com/yx0555/Integrated-Library-System/blob/master/Pictures/LoginPage.png"> 
+<img align="left" src="https://github.com/yx0555/Integrated-Library-System/blob/master/Pictures/ViewBooks.png "> 
+<img align="left" src="https://github.com/yx0555/Integrated-Library-System/blob/master/Pictures/Fines.png"> 
