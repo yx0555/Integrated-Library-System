@@ -11,7 +11,11 @@ client = MongoClient()
 db = client.library
 collection = db.books
 
+<<<<<<< HEAD
 mypass = "" #use your own password
+=======
+mypass ="" #use your own password
+>>>>>>> eaa1736df2fa30b20e30adf13d1b7bcd5c93dd99
 mydatabase="book2" #The database name
 con = pymysql.connect(host="localhost",user="root",
                       password=mypass,database=mydatabase)

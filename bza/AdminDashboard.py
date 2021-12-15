@@ -4,6 +4,7 @@ from AdminBorrowedBooks import *
 from usersUnpaid import *
 import io
 from urllib.request import urlopen
+<<<<<<< HEAD
 from PIL import ImageTk,Image
 from tkinter import messagebox
 
@@ -15,6 +16,17 @@ con = pymysql.connect(host="localhost",user="root",
                       password=mypass,database=mydatabase)
 #root is the username here
 cur = con.cursor() #cur -> cursor
+=======
+from PIL import ImageTk, Image
+from tkinter import messagebox
+
+mypass = ""  # use your own password
+mydatabase = "book2"  # The database name
+con = pymysql.connect(host="localhost", user="root",
+                      password=mypass, database=mydatabase)
+# root is the username here
+cur = con.cursor()  # cur -> cursor
+>>>>>>> eaa1736df2fa30b20e30adf13d1b7bcd5c93dd99
 
 
 def AdminDashboard():
