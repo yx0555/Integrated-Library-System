@@ -1,5 +1,6 @@
 # Integrated-Library-System
 A web application designed using tkinter to support library transactions and the management of book records.
+Designed for BT2102 Assignment
 
 ## Setup
 
