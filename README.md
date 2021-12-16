@@ -1,5 +1,6 @@
 # Integrated-Library-System
-A web application designed using tkinter to support library transactions and the management of book records.
+A web application designed using Python and tkinter to support library transactions and the management of book records.
+Information is stored in mySQL and MongoDB database for demonstration purposes.
 Designed for BT2102 Assignment
 
 ## Setup
